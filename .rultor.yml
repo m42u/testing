@@ -1,3 +1,5 @@
 merge:
   script: node app.js
 
+docker:
+  image: "node:latest"
