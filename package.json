@@ -1,0 +1,10 @@
+{
+  "name": "app-hello",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Hello world app",
+  "author": "Manu",
+  "dependencies": {
+    "express": "3.2.4"
+  }
+}
